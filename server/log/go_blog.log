@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2025-04-01T18:01:54.161+0800","caller":"core/server.go:24","msg":"server run success on ","address":"0.0.0.0:8080"}
+{"level":"INFO","time":"2025-04-01T18:48:32.250+0800","caller":"core/server.go:24","msg":"server run success on ","address":"0.0.0.0:8080"}
