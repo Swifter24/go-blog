@@ -6,3 +6,4 @@
 {"level":"ERROR","time":"2025-04-05T20:42:31.136+0800","caller":"flag/enter.go:100","msg":"Failed to create an administrator:","error":"passwords do not match"}
 {"level":"ERROR","time":"2025-04-05T20:42:54.361+0800","caller":"flag/enter.go:100","msg":"Failed to create an administrator:","error":"password length should be between 8 and 20 characters"}
 {"level":"INFO","time":"2025-04-05T20:43:31.044+0800","caller":"flag/enter.go:102","msg":"Successfully created an administrator"}
+{"level":"INFO","time":"2025-04-07T18:43:21.974+0800","caller":"core/server.go:24","msg":"server run success on ","address":"0.0.0.0:8080"}
