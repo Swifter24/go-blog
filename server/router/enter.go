@@ -5,6 +5,10 @@ type RouterGroup struct {
 	UserRouter
 	ImageRouter
 	ArticleRouter
+	CommentRouter
+	AdvertisementRouter
+	FriendLinkRouter
+	FeedbackRouter
 }
 
 var RouterGroupApp = new(RouterGroup)
